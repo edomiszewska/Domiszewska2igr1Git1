@@ -10,3 +10,4 @@ W ZSTI zmieniłabym na pewno niektóre ceny w sklepiku szkolnym **(np. 6 złotyc
 Pod względem lekcyjnym natomiast zmieniłabym ilość sprawdzianów i kartkówek na dany tydzień, czasem są one skumulowane w np. 2 dni po x kartkówek, na które składa się
 sporo materiału. Fizycznie jest to ciężkie do ogarnięcia, jeżeli chce się mieć też swój czas wolny. Osoby, które muszą na dodatek coś poprawiać mają jeszcze więcej materiału.
 
+![zdjęcie](/maciej.png)
