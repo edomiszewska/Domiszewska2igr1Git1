@@ -1,7 +1,6 @@
 ### Nazywam się Emilia 
 
-##### Wybrałam szkołę ZSTI Gliwice na kierunku informatycznym, ponieważ jest to najlepsze technikum na śląsku. W szkole możemy skupić się na danym zawodzie,
-##### zdobyć potrzebną dla nas wiedzę, mamy więcej styczności z technologią - czyli tym, co mnie interesuje. Mamy także zapewnione praktyki, które dużo dadzą w przyszłości.
+##### Wybrałam szkołę ZSTI Gliwice na kierunku informatycznym, ponieważ jest to najlepsze technikum na śląsku. W szkole możemy skupić się na danym zawodzie, zdobyć potrzebną dla nas wiedzę, mamy więcej styczności z technologią - czyli tym, co mnie interesuje. Mamy także zapewnione praktyki, które dużo dadzą w przyszłości.
 
 W ZSTI najbardziej podobają mi się lekcje zawodowe w piwnicy, nauczyciele nie mówią do nas "sztywno", lekcje wydają się bardzo wygodne.
 Podoba mi się również sklepik szkolny - mamy tam dosłownie wszystko **(od gotowych śniadań do kalkulatorów na matematykę)**, a na dodatek jest możliwość płatności kartą, 
